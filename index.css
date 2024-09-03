@@ -1,0 +1,40 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("https://www.ndtourism.com/sites/default/files/inline-images/Casino-w.jpg");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(250, 227, 171);
+    font-size: 50px;
+   
+}
+
+#message-el {
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(240, 210, 18);
+}
+
+p{
+    font-size: 25px;
+}
+
+button {
+    color: #016f32;
+    width: 180px;
+    height: 30px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
